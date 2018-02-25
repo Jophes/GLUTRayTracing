@@ -1,0 +1,17 @@
+﻿  Vec3.cpp
+  Vec2.cpp
+  Texture.cpp
+c:\users\jophes\google drive\university\year 3\graphics 2\as1-csy3028\as1-csy3028\texture.cpp(171): warning C4018: '<': signed/unsigned mismatch
+c:\users\jophes\google drive\university\year 3\graphics 2\as1-csy3028\as1-csy3028\texture.cpp(172): warning C4018: '<': signed/unsigned mismatch
+  Sphere.cpp
+  Renderer.cpp
+  RayTraceRenderer.cpp
+  RayTraceData.cpp
+  RayCastRenderer.cpp
+  Material.cpp
+  main.cpp
+  LightSource.cpp
+  GameObject.cpp
+  Colour.cpp
+  Generating Code...
+  AS1-CSY3028.vcxproj -> C:\Users\Jophes\Google Drive\University\Year 3\Graphics 2\AS1-CSY3028\Debug\AS1-CSY3028.exe
